@@ -3,7 +3,7 @@
 1. [Introduktion](#1-introduktion)
 1. [Uppdragsbeskrivning](#2-uppdragsbeskrivning)
 1. [Inlämning](#3-inlämning)
-1. [Bedömning](#3-bedömning)
+1. [Bedömning](#4-bedömning)
 1. [Appendix: Arbeta med git i terminalen](#4-appendix-arbeta-med-git-i-terminalen)
 
 ---
@@ -66,7 +66,7 @@ Före eller efter presentationen av projektet ska ni ha ett *retrospective*, dä
 2. Vilka krav var svårast respektive lättast att skriva test för?
 2. Fanns det något ni hade tänkt göra, som ni inte hann med? Vad berodde det på?
 
-[Till toppen av sidan](#grupprojekt-tdd-i-vue-app)
+[Till toppen av sidan](#grupprojekt-webshop)
 
 ---
 #### 2.2 Uppstart och versionshantering
@@ -108,14 +108,14 @@ Gruppen ska förbereda en kort presentation av ert projekt, som ni ska hålla f�
 1. Var beredda på att det kan komma frågor från åhörarna
 1. Ta emot applåderna!
 
-[Till toppen av sidan](#grupprojekt-tdd-i-vue-app)
+[Till toppen av sidan](#grupprojekt-webshop)
 
 ---
 ### 3. Inlämning
 Zippa koden för projekt *(men inte node_modules!!)* och ladda upp på LearnPoint. Glöm inte projektrapporten.
 
 
-[Till toppen av sidan](#grupprojekt-tdd-i-vue-app)
+[Till toppen av sidan](#grupprojekt-webshop)
 
 ---
 ### 4. Bedömning
@@ -161,4 +161,4 @@ git checkout nisses-branch  # din branch
 git merge klaras-branch  # dra över Klaras ändringar till din branch
 ```
 
-[Till toppen av sidan](#grupprojekt-tdd-i-vue-app)
+[Till toppen av sidan](#grupprojekt-webshop)
