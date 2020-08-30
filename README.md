@@ -2,7 +2,9 @@
 ## TDD i Vue app
 1. [Introduktion](#1-introduktion)
 1. [Uppdragsbeskrivning](#2-uppdragsbeskrivning)
-1. [Inlämning](!3-inlämning)
+1. [Inlämning](#3-inlämning)
+1. [Bedömning](#3-bedömning)
+1. [Appendix: Arbeta med git i terminalen](#4-appendix-arbeta-med-git-i-terminalen)
 
 ---
 ### 1. Introduktion
@@ -116,7 +118,21 @@ Zippa koden för projekt *(men inte node_modules!!)* och ladda upp på LearnPoin
 [Till toppen av sidan](#grupprojekt-tdd-i-vue-app)
 
 ---
-### 4. Appendix: arbeta med git i terminalen
+### 4. Bedömning
+**För godkänt** på projektet ska du
++ delta aktivt i gruppens arbete
++ arbeta enligt instruktionerna på den här sidan; agilt, med git, TDD och Vue
++ arbeta med git (göra commits och merge)
++ arbeta med Trello (ta och jobba med kort)
+
+**För väl godkänt** på projektet ska du dessutom
++ visa på god förmåga att ta initiativ, samverka och leda i grupp
++ kunna resonera och reflektera kring kursinnehållet
+
+Det finns möjlighet att demonstrera det senare VG-kriteriet genom gruppens presentation, men det kommer även att testas i det individuella projektet.
+
+---
+### 5. Appendix: arbeta med git i terminalen
 ```bash
 # Exempel på hur man arbetar med git
 # Byt branch, så att du inte förstör master
