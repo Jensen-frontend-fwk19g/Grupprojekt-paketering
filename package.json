@@ -1,0 +1,12 @@
+{
+    "name": "group-project",
+    "version": "1.0.0",
+    "description": "Group project - TDD in Vue app",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["tdd", "vue"],
+    "author": "David Andersson",
+    "license": "ISC"
+}
