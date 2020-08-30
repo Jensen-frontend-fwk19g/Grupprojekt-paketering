@@ -4,7 +4,7 @@
 1. [Uppdragsbeskrivning](#2-uppdragsbeskrivning)
 1. [Inlämning](#3-inlämning)
 1. [Bedömning](#4-bedömning)
-1. [Appendix: Arbeta med git i terminalen](#4-appendix-arbeta-med-git-i-terminalen)
+1. [Appendix: Arbeta med git i terminalen](#5-appendix-arbeta-med-git-i-terminalen)
 
 ---
 ### 1. Introduktion
